@@ -4,9 +4,9 @@ pytest==3.2.4 \
     --hash=sha256:cfee9a9b6c0e76962490135fb978b65734e639ff39cde1358f5473fad92dabd9 \
     --hash=sha256:f50c9d0e07f0b028f6046448cd7b66bd48ff4ed004641db3ea2898af3b9eaeee
 
-django-debug-toolbar==1.9 \
-    --hash=sha256:acd466a9fcb1d0ca99889df0726dbbbd81bb4fe57bb5f5943e66de7fe3b38270 \
-    --hash=sha256:39a846374c95e70baf9c92f97db20f15e78ff75a007b67650b79cf8f5e14e27c
+django-debug-toolbar==1.9.1 \
+    --hash=sha256:4af2a4e1e932dadbda197b18585962d4fc20172b4e5a479490bc659fe998864d \
+    --hash=sha256:d9ea75659f76d8f1e3eb8f390b47fc5bad0908d949c34a8a3c4c87978eb40a0f
 
 datadiff==2.0.0 --hash=sha256:54049440a896de5247ee2e7b7aa5425f939ac832c37edb2101f8d3036e89caa8
 
